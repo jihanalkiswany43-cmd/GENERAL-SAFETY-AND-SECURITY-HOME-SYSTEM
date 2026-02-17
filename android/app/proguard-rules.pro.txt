@@ -1,0 +1,6 @@
+# Keep OkHttp classes used by UCrop
+-keep class okhttp3.** { *; }
+-keep interface okhttp3.** { *; }
+
+# Keep UCrop tasks
+-keep class com.yalantis.ucrop.** { *; }

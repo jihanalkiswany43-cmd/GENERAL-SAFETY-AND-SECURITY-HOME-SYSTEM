@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "434257136940",
+    "project_id": "smarthomeprojectabj",
+    "storage_bucket": "smarthomeprojectabj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434257136940:android:5bf9f61ddd1f43ac967089",
+        "android_client_info": {
+          "package_name": "com.ayat.apptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq4qB75zwRm51PAOHkBofLRyRYbOyosGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434257136940:android:e65aff906a460abb967089",
+        "android_client_info": {
+          "package_name": "com.example.apptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq4qB75zwRm51PAOHkBofLRyRYbOyosGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
